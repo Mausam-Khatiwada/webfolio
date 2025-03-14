@@ -95,7 +95,7 @@ const Index = () => {
               <div className="relative">
                 <div className="absolute inset-0 bg-gradient-to-r from-neon-blue to-neon-pink opacity-50 blur-xl rounded-3xl"></div>
                 <img 
-                  src="/pp.JPG" 
+                  src="/webfolio/pp.JPG" 
                   alt="Developer workspace" 
                   className="rounded-3xl object-cover w-96 h-96 z-10 relative border border-white/10"
                 />
